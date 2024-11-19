@@ -1,2 +1,2 @@
 Nombre de los compañeros
-luis 
+Daniel Bedoya, Iñigo Velasco, Sergio Gomez
